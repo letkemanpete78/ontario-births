@@ -14,3 +14,6 @@ Proposed ideas:
 * C# command line interface using MongoDB
 * C# ASP.NET using MVC
 * Android program to connect to either Python, Java or C# RESTful interface
+* NodeJS site which using SQLite
+* NodeJS site which using MongoDB
+* Web sites will be using AngularJS
